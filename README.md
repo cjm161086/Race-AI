@@ -48,6 +48,12 @@ While the implementation is functional, there is room for significant optimizati
 3. **Metrics Display**:
    - Shows Q-table values and per-vehicle metrics like lifetime and intent count.
 
+## 🎥 Demo
+
+[![Watch the demo video](https://github.com/cjm161086/Race-AI/blob/main/Preview.jpg)](https://www.dropbox.com/scl/fi/03tirev3wmgpii6eccsfu/Demo-Race-AI.mp4?rlkey=zdzfasujtdz3w8q4a2al94s0m&raw=1)
+
+Click on the image to watch the demo video on Dropbox.
+
 
 
 
