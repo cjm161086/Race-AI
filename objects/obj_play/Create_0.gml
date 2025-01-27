@@ -1,0 +1,1 @@
+is_clicked = false; // State to track if the button is clicked
